@@ -20,11 +20,15 @@ For the installation of SpeechRecognition library see [this](https://pypi.org/pr
 
 This feature gives us the information about the number of words have been spoken in the audio per minute. From this, we can also gather the speech speed or the rate of speaking per minute. This tells us that whether the person is speaking slowly (if it has less number of words spoken per minute) or the person is speaking fast (if it has high number of words spoken per minute).
 
+![words per min](https://github.com/ayushirastogi15/Flask-Application-Development/blob/main/static/images/words-per-minute.png)
+
+
 ### Energy of Audio
 
 The energy of audio tells us the pitch of an audio. This below graph tells us that the intensity of an audio, the high intensity means the audio is clearly audible or in other words it contains some voice whereas low intensity or low energy means the audio doesn't have any voice or it isn't clearly audible. 
 
 ![energy graph](https://github.com/ayushirastogi15/Flask-Application-Development/blob/main/static/images/energy.png)
+
 
 ### Filler Words
 
@@ -32,4 +36,7 @@ Filler words are those words which are not properly the words but we use them as
 
 ![filler graph](https://github.com/ayushirastogi15/Flask-Application-Development/blob/main/static/images/plot.png)
 
+You can check out the video that I've made to demonstrate this speech recognition task using flask using this [link](https://drive.google.com/drive/folders/1ZYdO2xlAHBXakMHOQXMPjLj771yToIbC). Or you can also check out my [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6714567192064651265/) profile to watch this video.
 
+
+If you found it helpful do upvote it or if you found anything wrong do let me know. I'm open to any kind of feedback. Thanks for your time.
