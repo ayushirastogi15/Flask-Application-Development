@@ -30,6 +30,6 @@ The energy of audio tells us the pitch of an audio. This below graph tells us th
 
 Filler words are those words which are not properly the words but we use them as fillers in between the sentences while speaking. For example, *right, okay, but, umm, yeah, so, yes...* etc. These words may tell us that whether the person is speaking very fluently or (s)he is using any kind of other words to complete the sentences. Below graph shows us the count of filler words in one of the audio that I've used in this. 
 
-![filler graph]()
+![filler graph](https://github.com/ayushirastogi15/Flask-Application-Development/blob/main/static/images/plot.png)
 
 
