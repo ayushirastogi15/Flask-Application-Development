@@ -14,3 +14,22 @@ This repository tells you how to develop a flask application for the speech reco
 
 For the installation of SpeechRecognition library see [this](https://pypi.org/project/SpeechRecognition/).
 
+## Speech/Audio Analysis
+
+### Number of words per minute
+
+This feature gives us the information about the number of words have been spoken in the audio per minute. From this, we can also gather the speech speed or the rate of speaking per minute. This tells us that whether the person is speaking slowly (if it has less number of words spoken per minute) or the person is speaking fast (if it has high number of words spoken per minute).
+
+### Energy of Audio
+
+The energy of audio tells us the pitch of an audio. This below graph tells us that the intensity of an audio, the high intensity means the audio is clearly audible or in other words it contains some voice whereas low intensity or low energy means the audio doesn't have any voice or it isn't clearly audible. 
+
+![energy graph](https://github.com/ayushirastogi15/Flask-Application-Development/blob/main/static/images/energy.png)
+
+### Filler Words
+
+Filler words are those words which are not properly the words but we use them as fillers in between the sentences while speaking. For example, *right, okay, but, umm, yeah, so, yes...* etc. These words may tell us that whether the person is speaking very fluently or (s)he is using any kind of other words to complete the sentences. Below graph shows us the count of filler words in one of the audio that I've used in this. 
+
+![filler graph]()
+
+
